@@ -1,0 +1,5 @@
+<ul>
+<li>solving puzzle</li>
+<li>solving tricky question</li>
+<li>playing games</li>
+</ul>
